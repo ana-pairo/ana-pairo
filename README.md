@@ -21,7 +21,6 @@
   <img align="left" margin-right="50px" alt="My-progile-pic" height="200" style="border-radius:50px;" src="https://github.com/ana-pairo/ana-pairo/blob/main/assets/profilePicture.gif" />
   
   <br>
-
    <div style="display:inline-block">
      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
     My name is Ana Paula.
@@ -49,12 +48,23 @@
   Things that I love: animals, nature, books, movies, music, and getting together with friends.
   </div>
 <div>
+  <br>
+  <br>
+  
+  <div align="center">
+  <a href="https://www.instagram.com/ana.pairo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ana.pairo2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anapairo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5521991871506" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  </div>  
 
 <!-- Profile Views -->
   
-<!-- Snake commits -->
+
   
-  ---
+ ##
+  
+  <!-- Snake commits -->
   
   ![Snake animation](https://github.com/ana-pairo/ana-pairo/blob/output/github-contribution-grid-snake.svg)
   
