@@ -50,11 +50,13 @@
   </div>
 <div>
 
-
-  
-
-
 <!-- Profile Views -->
+  
+<!-- Snake commits -->
+  
+  ---
+  
+  ![Snake animation](https://github.com/ana-pairo/ana-pairo/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
