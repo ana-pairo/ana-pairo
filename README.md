@@ -1,4 +1,8 @@
 <!-- Heading -->
+<div>  
+  <img width="100%" src="https://github.com/ana-pairo/ana-pairo/blob/main/assets/girlCoding.gif" >
+</div>
+
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Ana Paula </h1>
 
 
