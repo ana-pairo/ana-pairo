@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div align="center">
+  <img align="center" alt="Ana-pic" height="200" style="border-radius:50px;" src="https://i.picasion.com/pic92/c1c51d5d32db7835fccde56aeb7601d4.gif">
+</div>
+
 
 <!--
 **ana-pairo/ana-pairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
