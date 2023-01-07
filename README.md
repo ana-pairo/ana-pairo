@@ -118,7 +118,10 @@
   <!-- Snake commits -->  
  ##
   
-  ![Snake animation](https://github.com/ana-pairo/ana-pairo/blob/output/github-contribution-grid-snake.svg)
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ana-pairo/ana-pairo/output/snake-dark.svg#gh-dark-mode-only)
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ana-pairo/ana-pairo/output/snake.svg#gh-light-mode-only)
   
   
   <!-- GitHub Stats -->
