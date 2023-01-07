@@ -70,12 +70,10 @@
  
   ##
   <!-- GitHub Stats -->
- <div>
+ <div align="center">
   
-  [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-pairo&show_icons=true&theme=transparent)](https://github.com/ana-pairo/github-readme-stats)
-    
-  
-  
+  [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-pairo&show_icons=true&theme=transparent)](https://github.com/ana-pairo/github-readme-stats)  
+   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pairo&layout=compact&theme=transparent)](https://github.com/ana-pairo/github-readme-stats)
     
  </div>
