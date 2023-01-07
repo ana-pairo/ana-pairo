@@ -134,11 +134,12 @@
   <!-- Snake commits -->  
  ##
   
+  <div align="center">  
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ana-pairo/ana-pairo/output/snake-dark.svg#gh-dark-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/ana-pairo/ana-pairo/output/snake-dark.svg#gh-dark-mode-only)  
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/ana-pairo/ana-pairo/output/snake.svg#gh-light-mode-only)
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ana-pairo/ana-pairo/output/snake.svg#gh-light-mode-only)
-  
+  </div>
   
   <!-- GitHub Stats -->
  ##
@@ -150,20 +151,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pairo&layout=compact&theme=transparent)](https://github.com/ana-pairo/github-readme-stats)
     
  </div>
-
-
-<!--
-**ana-pairo/ana-pairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
