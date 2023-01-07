@@ -57,19 +57,73 @@
   <a href="https://www.linkedin.com/in/anapairo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/5521991871506" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>  
-
-<!-- Profile Views -->
   
 
+  <!-- Skills -->
+ ##
+  <div align="center">
+  <div id="user-content-toc">
+   <ul>
+     <summary><h1 style="display: inline-block;"> I’m currently learning</h1></summary>
+   </ul>    
+  </div> 
   
- ##  
-  <!-- Snake commits -->
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  
+  <div id="user-content-toc">
+   <ul>
+     <summary><h1 style="display: inline-block;"> My Languages </h1></summary>
+   </ul>    
+  </div>
+  
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    
+   <div id="user-content-toc">
+    <ul>
+     <summary><h1 style="display: inline-block;"> My Frameworks and Libraries </h1></summary>
+    </ul>    
+   </div>
+    
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+   <div id="user-content-toc">
+    <ul>
+     <summary><h1 style="display: inline-block;"> Databases and ORM </h1></summary>
+    </ul>    
+   </div>
+    
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  
+   <div id="user-content-toc">
+    <ul>
+     <summary><h1 style="display: inline-block;"> Hosting </h1></summary>
+    </ul>    
+   </div>
+    
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  
+  </div>  
+  
+  <!-- Snake commits -->  
+ ##
   
   ![Snake animation](https://github.com/ana-pairo/ana-pairo/blob/output/github-contribution-grid-snake.svg)
   
- 
-  ##
+  
   <!-- GitHub Stats -->
+ ##
+ 
  <div align="center">
   
   [![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-pairo&show_icons=true&theme=transparent)](https://github.com/ana-pairo/github-readme-stats)  
