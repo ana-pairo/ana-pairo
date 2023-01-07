@@ -29,12 +29,12 @@
   
   <div style="display:inline-block">
      <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" />
-     I'm Chemical Engineering who got interested in the programming world.
+     I'm a Chemical Engineer who got interested in the world of programming.
   </div>
   
   <div style="display:inline-block">
    <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
-   Software Engineering/Full Stack Developer developing myself.
+   Software Engineer/Full Stack Developer in constant growth.
   </div>
   <br>
   
