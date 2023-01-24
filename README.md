@@ -6,12 +6,15 @@
 
 <br>
 
-<h1 align="center">
-  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-  Hello coders!
-  <br>      
-  Welcome To My GitHub Profile! 
-</h1>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+Coders!!;Welcome+To+My+GitHub+Profile!;)](https://git.io/typing-svg)
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>   
+
+</div>
+  
+##
+
 
 <!-- About section -->
 
