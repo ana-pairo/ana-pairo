@@ -1,15 +1,8 @@
 <!-- Heading -->
 
-<div align="center">  
-  <img alt="Woman-coding" align="center" width="60%" src="https://github.com/ana-pairo/ana-pairo/blob/main/assets/girlCoding.gif" >
-</div>
-
-<br>
-
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+Coders!!;Welcome+To+My+GitHub+Profile!;)](https://git.io/typing-svg)
-  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>   
 
 </div>
   
@@ -154,4 +147,19 @@
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ana-pairo&layout=compact&theme=transparent)](https://github.com/ana-pairo/github-readme-stats)
     
  </div>
+  
+<!-- Footer -->
+
+  ##
+  
+<div align="center">  
+  <img alt="Woman-coding" align="center" width="60%" src="https://github.com/ana-pairo/ana-pairo/blob/main/assets/girlCoding.gif" >
+</div>
+  
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=See+You!!;)](https://git.io/typing-svg)
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>   
+
+</div>
 
